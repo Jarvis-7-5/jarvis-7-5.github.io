@@ -2,7 +2,7 @@
   <img src="logo.png" alt="Jarvis Logo" width="200">
 </div>
 
-Try Jarvis, a free open-source AI powered by gen.pollinations.ai
+Try Jarvis, a free open-source AI powered by https://gen.pollinations.ai
 
 
 Experience the future of free AI: 
