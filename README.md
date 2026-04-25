@@ -5,7 +5,8 @@
 Try Jarvis, a free open-source AI powered by gen.pollinations.ai
 
 
-Experience the future of free AI: (https://jarvis-7-5.github.io/)
+Experience the future of free AI: 
+(https://jarvis-7-5.github.io/)
 
 Start asking questions and discover the difference advanced AI can make.
 
