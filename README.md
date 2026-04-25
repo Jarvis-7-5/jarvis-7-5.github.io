@@ -2,9 +2,8 @@
   <img src="logo.png" width="200" alt="Jarvis 7.5 Logo">
 </p>
 
-# Jarvis 7.5
-
-A lightweight web interface hosted using GitHub Pages.
+# Jarvis 
+A lightweight web-hosted AI
 
 ---
 
